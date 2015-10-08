@@ -1,8 +1,10 @@
 ##Jun Huang
-`email:junh4533@hstat.org`
-`~`school:HSTAT`
+`email:junh4533@hstat.org`  
+`school:[HSTAT](hstat.org)`
 
 _I am 16 years old and I love eating and sleeping. My favorite subjects in school is science, math, and software engineering because they require logical calculations._
+
+###schedule:
 
 1. Physics
 2. U.S. History
@@ -14,13 +16,12 @@ _I am 16 years old and I love eating and sleeping. My favorite subjects in schoo
 8. SEP
 
 ---
-Hobbies:
-
-*eating
-*sleeping
-*ping pong
-*poker
-*video games
+Hobbies:  
+* eating
+* sleeping
+* ping pong
+* poker
+* video games
 
 
 

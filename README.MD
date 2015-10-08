@@ -2,7 +2,7 @@
 `email:junh4533@hstat.org`  
 school:[HSTAT](hstat.org)
 
-_I am 16 years old and I love eating and sleeping. My favorite subjects in school is science, math, and software engineering because they require logical calculations._
+_**I am 16 years old and I love eating and sleeping. My favorite subjects in school is science, math, and software engineering because they require logical calculations.**_
 
 ###schedule:
 
